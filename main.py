@@ -1,3 +1,8 @@
+"""Decorator mit Benutzerobjekten.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu05/aufgaben/decorator2
+"""
+
 class User:
 
     def __init__(self, username, permission_level):
